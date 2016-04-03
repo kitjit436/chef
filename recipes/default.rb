@@ -18,3 +18,5 @@
 #
 
 Chef::Log.warn('The default tomcat recipe does nothing. See the readme for information on using the tomcat resources')
+test12334566
+chef::warn
